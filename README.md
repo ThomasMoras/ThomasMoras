@@ -2,8 +2,7 @@
 
 🌟 **Développeur Passionné | Spécialiste Blockchain | Problem Solver**
 
-Bienvenue sur mon profil GitHub! Je suis un développeur full stack avec une expertise particulière en technologies blockchain. Avec plus de 6 ans d'expérience dans le développement logiciel, je me spécialise dans la création d'applications décentralisées sécurisées et performantes.
-
+Bienvenue sur mon profil GitHub! Je suis un développeur full stack avec une expertise particulière en technologies blockchain. Avec plus de 6 ans d'expérience dans le développement logiciel, je me spécialise dans la création d'applications décentralisées sécurisées et performantes, mais suis également disponible pour des projets full stack traditionnels.
 ---
 
 ## 🚀 **À propos de moi**
@@ -12,7 +11,7 @@ Bienvenue sur mon profil GitHub! Je suis un développeur full stack avec une exp
 - 🎓 **Master en Systèmes d'Information** | **Certification Web3 avancée** (École Alyra)
 - 💻 Expert en création d'applications complètes, du frontend aux smart contracts
 - 🔒 Spécialiste en développement sécurisé de solutions blockchain
-
+- 📚 Actuellement en formation sur Rust et Go pour élargir mes compétences en langages performants
 ---
 
 ## 🛠️ **Compétences & Technologies**
@@ -75,9 +74,9 @@ Bienvenue sur mon profil GitHub! Je suis un développeur full stack avec une exp
 
 ## 📬 **Contact**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://votre-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre-email@exemple.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/votre-username)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://thomasmoras.dev/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moras.thomas@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/votre-profil](https://www.linkedin.com/in/thomas-moras-48006213b/))
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThomasMoras)
 
 ---
