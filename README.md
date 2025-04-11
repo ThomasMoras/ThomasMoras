@@ -3,6 +3,7 @@
 🌟 **Développeur Passionné | Spécialiste Blockchain | Problem Solver**
 
 Bienvenue sur mon profil GitHub! Je suis un développeur full stack avec une expertise particulière en technologies blockchain. Avec plus de 6 ans d'expérience dans le développement logiciel, je me spécialise dans la création d'applications décentralisées sécurisées et performantes, mais suis également disponible pour des projets full stack traditionnels.
+
 ---
 
 ## 🚀 **À propos de moi**
