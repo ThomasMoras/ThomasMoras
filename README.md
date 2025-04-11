@@ -1,4 +1,4 @@
-# 👋 Bonjour, Je suis un Développeur Full Stack & Blockchain
+# 👋 Bonjour, Je suis Thomas Moras
 
 🌟 **Développeur Passionné | Spécialiste Blockchain | Problem Solver**
 
@@ -81,5 +81,3 @@ Bienvenue sur mon profil GitHub! Je suis un développeur full stack avec une exp
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/votre-username)
 
 ---
-
-Créons ensemble des solutions blockchain innovantes! 🚀
