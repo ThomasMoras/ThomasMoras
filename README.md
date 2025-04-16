@@ -4,7 +4,7 @@
 🌟 **Développeur Passionné | Spécialiste Blockchain | Problem Solver**
 
 Welcome to my GitHub profile! I am a full stack developer with specific expertise in blockchain technologies.  
-Bienvenue sur mon profil GitHub! Je suis un développeur full stack avec une expertise particulière en technologies blockchain.
+Bienvenue sur mon profil GitHub! Je suis un développeur full stack ayant une expertise sur les technologies blockchain.
 
 ---
 
@@ -15,8 +15,8 @@ Bienvenue sur mon profil GitHub! Je suis un développeur full stack avec une exp
 
 - 🌍 Based in **Toronto** (UTC-4)
 - 🎓 **Master's in Information Systems** | **Advanced Web3 Certification** (École Alyra)
-- 💻 Expert in creating complete applications, from frontend to smart contracts
-- 🔒 Specialist in secure blockchain solution development
+- 💻 Creating complete applications, from frontend to backend (web 2 or smart contracts)
+- 🔒 Meticulous about security breaches (smart contracts and others)
 - 📚 Currently training in Rust and Go to expand my skills in high-performance languages
 
 ## 🛠️ **Skills & Technologies**
@@ -58,13 +58,13 @@ Bienvenue sur mon profil GitHub! Je suis un développeur full stack avec une exp
 
 ## 🔍 **Specialties**
 
-- **Frontend Excellence**: Building high-performance Next.js applications with TypeScript, implementing best practices for SEO, accessibility, and responsive design using modern component libraries (Tailwind CSS, Shadcn/ui)
+- **Frontend**: Building high-performance Next.js applications with TypeScript, implementing best practices for SEO, accessibility, and responsive design using modern component libraries (Tailwind CSS, Shadcn/ui)
 
-- **Backend & Blockchain Expertise**: Developing secure smart contracts with Solidity 8.0+ and standard documentation (Natspec), implementing RESTful APIs, and expanding into high-performance languages (Rust, Go) for scalable solutions
+- **Backend & Blockchain**: Developing secure smart contracts with Solidity 8.0+ and standard documentation (Natspec), implementing RESTful APIs, and expanding into high-performance languages (Rust, Go) for scalable solutions
 
 - **Business Process Optimization**: Designing and implementing workflow solutions for enterprise needs (QSE, Procurement, Skills Management), with integration of third-party services and custom data pipelines
 
-- **Development Leadership**: Setting up CI/CD automation with comprehensive test coverage (80%+), leading technical teams, and mentoring junior developers to maintain high-quality code standards
+- **Development Leadership**: Setting up CI/CD automation with comprehensive test coverage (80%+), taking lead on subjects, listening, coordinate with teams members to maintain high-quality code standards
 
 - **Full Stack Integration**: Seamlessly connecting traditional systems with blockchain technologies, implementing decentralized storage solutions (IPFS/Pinata), and deploying across multiple environments
 
@@ -78,8 +78,8 @@ Bienvenue sur mon profil GitHub! Je suis un développeur full stack avec une exp
 - 🌍 Basé à **Toronto** (UTC-4)
 - 🎓 **Master en Systèmes d'Information** | **Certification Web3 avancée** (École Alyra)
 - 💻 Expert en création d'applications complètes, du frontend aux smart contracts
-- 🔒 Spécialiste en développement sécurisé de solutions blockchain
-- 📚 Actuellement en formation sur Rust et Go pour élargir mes compétences en langages performants
+- 🔒 Méticuleux sur les aspects de sécurité (blockchain & autres)
+- 📚 Actuellement en formation sur Rust et Go pour élargir mes compétences sur des langages performants
 
 ## 🛠️ **Compétences & Technologies**
 
@@ -120,14 +120,13 @@ Bienvenue sur mon profil GitHub! Je suis un développeur full stack avec une exp
 
 ## 🔍 **Spécialités**
 
-- **Excellence Frontend** : Développement d'applications Next.js performantes avec TypeScript, mise en œuvre des meilleures pratiques pour le SEO, l'accessibilité et le design responsive avec des bibliothèques de composants modernes (Tailwind CSS, Shadcn/ui)
+- **Frontend** : Développement d'applications Next.js performantes avec TypeScript, mise en œuvre des meilleures pratiques pour le SEO, l'accessibilité et le design responsive avec des bibliothèques de composants modernes (Tailwind CSS, Shadcn/ui)
 
-- **Expertise Backend & Blockchain** : Développement de smart contracts sécurisés avec Solidity 8.0+ et documentation standardisée (Natspec), implémentation d'APIs RESTful, et formation en langages haute performance (Rust, Go) pour des solutions évolutives
+- **Backend & Blockchain** : Développement de smart contracts sécurisés avec Solidity 8.0+ et documentation standardisée (Natspec), implémentation d'APIs RESTful, et formation en langages haute performance (Rust, Go) pour des solutions évolutives
 
 - **Optimisation des Processus Métier** : Conception et mise en œuvre de solutions de workflow pour les besoins des entreprises (QSE, Achats, Gestion des Compétences), avec intégration de services tiers et pipelines de données personnalisés
 
-- **Leadership de Développement** : Mise en place d'automatisation CI/CD avec une couverture de tests complète (80%+), direction d'équipes techniques, et mentorat de développeurs juniors pour maintenir des normes de code de haute qualité
-
+- **Leadership de Développement** : Mise en place d'automatisation CI/CD avec une couverture de tests complète (80%+), prise d'initiative sur certains sujets, esprit de collaboration avec les autres membres l'équipe afin de respecter les standards d'un projet en s'assurant que les bonnes pratiques (qualité du code et standards soient respecté)
 - **Intégration Full Stack** : Connexion transparente des systèmes traditionnels aux technologies blockchain, implémentation de solutions de stockage décentralisé (IPFS/Pinata), et déploiement dans plusieurs environnements
 
 </details>
