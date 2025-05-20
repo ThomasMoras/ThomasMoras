@@ -1,10 +1,10 @@
 # 👋 Hello, I'm Thomas Moras | Bonjour, Je suis Thomas Moras
 
-🌟 **Passionate Developer | Blockchain Specialist | Problem Solver**  
-🌟 **Développeur Passionné | Spécialiste Blockchain | Problem Solver**
+🌟 **Passionate Developer | Blockchain enthusiam | Problem Solver**  
+🌟 **Développeur Passionné | Passioné de Blockchain | Problem Solver**
 
-Welcome to my GitHub profile! I am a full stack developer with specific expertise in blockchain technologies.  
-Bienvenue sur mon profil GitHub! Je suis un développeur full stack ayant une expertise sur les technologies blockchain.
+Welcome to my GitHub profile! I am a full stack developer, deep interesting in blockchain technologies.  
+Bienvenue sur mon profil GitHub! Je suis un développeur full stack ayant un fort intérêt sur les technologies blockchain.
 
 ---
 
@@ -77,7 +77,7 @@ Bienvenue sur mon profil GitHub! Je suis un développeur full stack ayant une ex
 
 - 🌍 Basé à **Toronto** (UTC-4)
 - 🎓 **Master en Systèmes d'Information** | **Certification Web3 avancée** (École Alyra)
-- 💻 Expert en création d'applications complètes, du frontend aux smart contracts
+- 💻 Création d'applications complètes, frontend, backend, smart contracts
 - 🔒 Méticuleux sur les aspects de sécurité (blockchain & autres)
 - 📚 Actuellement en formation sur Rust et Go pour élargir mes compétences sur des langages performants
 
